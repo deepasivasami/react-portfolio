@@ -1,6 +1,6 @@
 import React from "react";
 import "./project.css";
-import Project from "./Components/Project";
+
 
 const projects = [
   {
@@ -48,6 +48,7 @@ const projects = [
 
 const Project = () => {
   return (
+    <>
     <section className="project-section" id="projects">
       <h1 className="project-title">My Projects</h1>
 
@@ -79,6 +80,7 @@ const Project = () => {
         ))}
       </div>
     </section>
+    </>
   );
 };
 
