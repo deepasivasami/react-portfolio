@@ -1,5 +1,5 @@
 import React from "react";
-import "./skill.css";
+import "./Skill.css";
 
 const frontendSkills = [
   { name: "HTML", icon: "/html-5.png", progress: "100%" },
