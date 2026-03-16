@@ -6,12 +6,12 @@
 import { Routes, Route } from "react-router-dom";
 
 import Home from "./pages/Home";
-import Project from "./component/Project";
-import Contact from "./component/Contact";
-import Header from "./Component/Header";
-import Abouts from "./Component/Abouts";
-import Skill from "./Component/Skill";
-import Res from "./Component/Res";
+import Project from "./Components/Project";
+import Contact from "./Components/Contact";
+import Header from "./Components/Header";
+import Abouts from "./Components/Abouts";
+import Skill from "./Components/Skill";
+import Res from "./Components/Res";
 
 function App() {
   return (
