@@ -1,5 +1,6 @@
 import React from "react";
 import "./project.css";
+import Project from "./Components/Project";
 
 const projects = [
   {

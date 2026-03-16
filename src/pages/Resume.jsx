@@ -1,5 +1,5 @@
 import React from 'react'
-import Res from '../Component/Res'
+import Res from '../Components/Res'
 
 const Resume = () => {
   return (
